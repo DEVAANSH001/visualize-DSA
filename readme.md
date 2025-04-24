@@ -1,4 +1,4 @@
-# Data Structure Visualizer
+# ALGOLENS
 
 Data Structure Visualizer is an intuitive and educational web application designed to make learning data structures fun, visual, and interactive. Whether you're a beginner trying to understand the fundamentals or an advanced learner revisiting core concepts, this tool offers animated, step-by-step simulations of how various data structures work under the hood.
 
