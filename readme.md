@@ -46,7 +46,7 @@ From inserting a node in a linked list to balancing an AVL tree or visualizing H
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/CubeStar1/ds-visualizer.git
+git clone https://github.com/DEVAANSH001/visualize-DSA.git
 cd ds-visualizer
 ```
 
